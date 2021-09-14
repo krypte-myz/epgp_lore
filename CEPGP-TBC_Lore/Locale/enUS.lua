@@ -1,4 +1,4 @@
-local L = LibStub("AceLocale-3.0"):NewLocale("CEPGP-TBC", "enUS", true, true);
+local L = LibStub("AceLocale-3.0"):NewLocale("CEPGP-TBC_Lore", "enUS", true, true);
 
 L["Karazhan"] = true
 L["Attumen the Huntsman"] = true

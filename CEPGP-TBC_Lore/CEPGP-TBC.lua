@@ -1,4 +1,4 @@
-local L = LibStub("AceLocale-3.0"):GetLocale("CEPGP-TBC");
+local L = LibStub("AceLocale-3.0"):GetLocale("CEPGP-TBC_Lore");
 
 do
 	local TBC_Bosses = {
@@ -511,6 +511,6 @@ do
 
 	end
 
-	CEPGP_addPlugin("CEPGP-TBC", nil, true, nil);
+	CEPGP_addPlugin("CEPGP-TBC_Lore", nil, true, nil);
 	
 end
