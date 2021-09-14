@@ -1,4 +1,4 @@
-﻿local L = LibStub("AceLocale-3.0"):NewLocale("CEPGP-TBC_Lore", "ruRU");
+﻿local L = LibStub("AceLocale-3.0"):NewLocale("CEPGP-TBC", "ruRU");
 
 if not L then return end
 

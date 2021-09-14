@@ -1,12 +1,12 @@
 ## Interface: 20501
-## Title: CEPGP-TBC_Lore
+## Title: CEPGP-TBC
 ## Author: Tragalix
 ## Notes: Adds support to CEPGP for The Burning Crusade raids.
 ## Version: 1.0.2
 ## OptionalDependencies: AceAddon-3.0, LibStub
-## Dependencies: CEPGP_Lore
+## Dependencies: CEPGP
 ## DefaultState: enabled
-## SavedVariables: CEPGP_TBC_Lore
+## SavedVariables: CEPGP_TBC
 
 Libs\LibStub\LibStub.lua
 Libs\AceLocale-3.0\AceLocale-3.0.lua
@@ -23,4 +23,4 @@ Locale\zhTW.lua
 Locale\esES.lua
 Locale\koKR.lua
 
-CEPGP-TBC_Lore.lua
+CEPGP-TBC.lua

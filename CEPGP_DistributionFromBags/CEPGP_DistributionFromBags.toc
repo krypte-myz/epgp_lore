@@ -1,13 +1,13 @@
-## Title: TBC Classic EPGP DistributionFromBags Lore
+## Title: TBC Classic EPGP DistributionFromBags
 ## Version: 1.13.16
 ## Author: Apollo @Taiwan
 ## Interface: 20501
-## Dependencies: CEPGP_Lore
-## LoadWith: CEPGP_Lore
+## Dependencies: CEPGP
+## LoadWith: CEPGP
 ## Notes: A plugin of CEPGP addon that can start the distribution process from the Loot Master's inventory.
-## SavedVariables: CEPGP_DFB_No_Trade_Lore, CEPGP_DFB_Enabled_Lore
+## SavedVariables: CEPGP_DFB_No_Trade, CEPGP_DFB_Enabled
 
 Libs\libs.xml
 Locales\locales.xml
 Frame.xml
-CEPGP_DistributionFromBags_Lore.lua
+CEPGP_DistributionFromBags.lua
